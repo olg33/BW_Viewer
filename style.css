@@ -1,0 +1,38 @@
+/*div{
+  color:brown;
+  border: 1px solid gray; 
+  text-align: center; 
+}*/
+body{
+  background-color: rgb(6, 12, 12);
+}
+
+.STL_Antenna_1 {
+  color: rgb(4, 4, 134);
+  text-align: center;
+  font-family: serif;  
+  font-weight: 300;
+  font-size: 30px;
+} 
+.STL_Antenna_2 {
+  color: blue;
+  text-align: center;
+  font-family: serif;  
+  font-weight: 300;
+  font-size: 30px;
+} 
+.VSAT_Antenna {
+  color: #1040d1;
+  text-align: center;
+  font-family: serif;  
+  font-weight: 300;
+  font-size: 30px;
+}  
+footer{
+  position: absolute; 
+  bottom: 0; 
+  right: 0; 
+  z-index: 10;
+  color:white;
+}
+  
